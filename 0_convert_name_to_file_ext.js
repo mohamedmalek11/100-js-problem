@@ -4,5 +4,5 @@ function convertNameToFileName(num,text) {
   return num + "_" + text.toLowerCase().split(" ").join("_") + ".js"
 }
 console.log(
-  convertNameToFileName(7 , "Opposite number")
+  convertNameToFileName(8 , "Return Negative")
 );
