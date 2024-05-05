@@ -4,5 +4,5 @@ function convertNameToFileName(num,text) {
   return num + "_" + text.toLowerCase().split(" ").join("_") + ".js"
 }
 console.log(
-  convertNameToFileName(5 , "Convert number to reversed array of digits")
+  convertNameToFileName(6 , "Counting sheep")
 );
