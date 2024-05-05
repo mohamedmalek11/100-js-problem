@@ -4,5 +4,5 @@ function convertNameToFileName(num,text) {
   return num + "_" + text.toLowerCase().split(" ").join("_") + ".js"
 }
 console.log(
-  convertNameToFileName(11 , "A Needle in the Haystack")
+  convertNameToFileName(12 , "Double Char")
 );
