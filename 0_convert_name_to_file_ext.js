@@ -1,8 +1,6 @@
-// convert challenge name to file name
+// convert challenge name to file name for automate naming
 
-function convertNameToFileName(num,text) {
-  return num + "_" + text.toLowerCase().split(" ").join("_") + ".js"
+function convertNameToFileName(num, text) {
+  return num + "_" + text.toLowerCase().split(" ").join("_") + ".js";
 }
-console.log(
-  convertNameToFileName(14 , "To square(root) or not to square(root)")
-);
+console.log(convertNameToFileName(19, "Reversing Words in a String"));
