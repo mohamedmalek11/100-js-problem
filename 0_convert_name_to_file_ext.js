@@ -3,4 +3,4 @@
 function convertNameToFileName(num, text) {
   return num + "_" + text.toLowerCase().split(" ").join("_") + ".js";
 }
-console.log(convertNameToFileName(25, "Welcome"));
+console.log(convertNameToFileName(26, "Sentence Smash"));
