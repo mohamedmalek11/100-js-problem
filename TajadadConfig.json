@@ -1,0 +1,2050 @@
+{
+  "radii": {
+    "button": 0
+  },
+  "layouts": {
+    "home": {
+      "tabPaddingH": 30,
+      "tabPaddingV": 10,
+      "showSwiperIndex": false
+    },
+    "intro": {
+      "width": "100%",
+      "height": "100%",
+      "bg_color": "white",
+      "animation": "none"
+    },
+    "brands": {
+      "alpha": false,
+      "columns": 1,
+      "showTitle": true,
+      "imageRatio": 0.3
+    },
+    "header": {
+      "sideAligned": false,
+      "logoResizeMode": "contain",
+      "logoWidthFactor": 2,
+      "logoPositionInContainer": "center"
+    },
+    "tabBar": {
+      "style": "rounded",
+      "titleShown": "unselected"
+    },
+    "account": {
+      "buttons": "out"
+    },
+    "categories": {
+      "treeMode": false,
+      "imageRatio": 1,
+      "titlePosition": "white",
+      "showParentImage": "selection",
+      "showSubcategories": false,
+      "subcategoriesColumns": 2
+    },
+    "productCard": {
+      "style": "soft",
+      "border": true,
+      "homeSize": "large",
+      "listSize": "default",
+      "addToCart": true,
+      "imageRatio": 1,
+      "resizeMode": "cover",
+      "quantityPicker": true
+    },
+    "productDetails": {
+      "ctaIcon": true,
+      "ctaType": "cart",
+      "actionBar": false,
+      "resizeMode": "cover",
+      "optionPrice": true,
+      "showRelated": true,
+      "relatedSection": {
+        "limit": 10,
+        "style": "center",
+        "colors": {
+          "primary": "red",
+          "secondary": "yellow"
+        },
+        "iconKey": "tab_home",
+        "stringKey": "lastPiece"
+      }
+    }
+  },
+  "rImages": {
+    "x": "https://assets.matjrah.store/image/app-icons/Phosphor/Close.png",
+    "ar": "https://assets.matjrah.store/image/app-icons/Static/Langs/AR.png",
+    "en": "https://assets.matjrah.store/image/app-icons/Static/Langs/EN.png",
+    "AED": "https://assets.matjrah.store/image/app-icons/Static/Flags/AED.png",
+    "BHD": "https://assets.matjrah.store/image/app-icons/Static/Flags/BHD.png",
+    "KWD": "https://assets.matjrah.store/image/app-icons/Static/Flags/KWD.png",
+    "OMR": "https://assets.matjrah.store/image/app-icons/Static/Flags/OMR.png",
+    "QAR": "https://assets.matjrah.store/image/app-icons/Static/Flags/QAR.png",
+    "SAR": "https://assets.matjrah.store/image/app-icons/Static/Flags/SAR.png",
+    "USD": "https://assets.matjrah.store/image/app-icons/Static/Flags/USD.png",
+    "eye": "https://assets.matjrah.store/image/app-icons/Phosphor/Show.png",
+    "pay": "https://assets.matjrah.store/image/app-icons/Phosphor/Bank.png",
+    "bank": "https://assets.matjrah.store/image/app-icons/Phosphor/Bank.png",
+    "bell": "https://assets.matjrah.store/image/app-icons/Phosphor/Bell.png",
+    "date": "https://assets.matjrah.store/image/app-icons/Phosphor/Cal-Add.png",
+    "edit": "https://assets.matjrah.store/image/app-icons/Phosphor/Edit.png",
+    "like": "https://dummy1.matjrah.store/images/1455/image/catalog/important%20assets/1684155642-like.png",
+    "logo": "https://assets.matjrah.store/images/2473/image/cache/catalog/logo/1698060579-%D8%A7%D8%B1%D8%A7%D9%85-%D8%B1%D8%B5%D8%A7%D8%B5%D9%8A-ai-1000x1046.png",
+    "plus": "https://assets.matjrah.store/image/app-icons/Phosphor/Plus.png",
+    "sale": "https://dummy1.matjrah.store/images/1455/image/catalog/important%20assets/1684153395-sale.png",
+    "star": "https://dummy1.matjrah.store/images/1455/image/catalog/important%20assets/1693994152-1688392167-star.png",
+    "user": "https://assets.matjrah.store/image/app-icons/Phosphor/User-Simple.png",
+    "wave": "https://assets.matjrah.store/image/app-icons/Phosphor/Hello.png",
+    "check": "https://assets.matjrah.store/image/app-icons/Phosphor/Check-Circle.png",
+    "email": "https://assets.matjrah.store/image/app-icons/Phosphor/Envelope.png",
+    "error": "https://assets.matjrah.store/image/app-icons/Phosphor/Close-Circle-Fill.png",
+    "heart": "https://assets.matjrah.store/image/app-icons/Phosphor/Heart.png",
+    "intro": "https://api.tajadad.app/uploads/api/files/1706190660_nIBipL0PTGztSkYYkN7PEayJP8IpaXaYAkbk4KLD.jpg",
+    "label": "https://dummy1.matjrah.store/images/1455/image/catalog/important%20assets/1684154336-tag.png",
+    "minus": "https://assets.matjrah.store/image/app-icons/Phosphor/Minus.png",
+    "phone": "https://assets.matjrah.store/image/app-icons/Phosphor/Phone.png",
+    "share": "https://assets.matjrah.store/image/app-icons/Phosphor/Share.png",
+    "trash": "https://assets.matjrah.store/image/app-icons/Phosphor/Trash.png",
+    "truck": "https://assets.matjrah.store/image/app-icons/Phosphor/Truck.png",
+    "coupon": "https://assets.matjrah.store/image/app-icons/Phosphor/Ticket.png",
+    "filter": "https://assets.matjrah.store/image/app-icons/Phosphor/Sliders.png",
+    "logout": "https://assets.matjrah.store/image/app-icons/Phosphor/Logout.png",
+    "mapPin": "https://assets.matjrah.store/image/app-icons/Phosphor/Map-Pin.png",
+    "maroof": "https://assets.matjrah.store/image/app-icons/Static/Other/maroof.png",
+    "noCart": "https://dummy1.matjrah.store/images/1455/image/catalog/important%20assets/1684152826-empty-cart.png",
+    "orders": "https://assets.matjrah.store/image/app-icons/Phosphor/Package.png",
+    "points": "https://assets.matjrah.store/image/app-icons/Phosphor/Star-Fill.png",
+    "search": "https://assets.matjrah.store/image/app-icons/Phosphor/Search.png",
+    "upload": "https://assets.matjrah.store/image/app-icons/Phosphor/Upload.png",
+    "balance": "https://assets.matjrah.store/image/app-icons/Phosphor/Wallet.png",
+    "barcode": "https://assets.matjrah.store/image/app-icons/Phosphor/Barcode.png",
+    "giftBox": "https://dummy1.matjrah.store/images/1455/image/catalog/important%20assets/1684153395-gift-box.png",
+    "summary": "https://assets.matjrah.store/image/app-icons/Phosphor/Note.png",
+    "support": "https://assets.matjrah.store/image/app-icons/Phosphor/Chat.png",
+    "twitter": "https://assets.matjrah.store/image/app-icons/Static/Other/twitter.png",
+    "arrow-up": "https://assets.matjrah.store/image/app-icons/Phosphor/Arrow-Up.png",
+    "datetime": "https://assets.matjrah.store/image/app-icons/Phosphor/Clock.png",
+    "envelope": "https://assets.matjrah.store/image/app-icons/Phosphor/Envelope.png",
+    "facebook": "https://assets.matjrah.store/image/app-icons/Static/Other/facebook.png",
+    "landline": "https://assets.matjrah.store/image/app-icons/Phosphor/Phone.png",
+    "noOrders": "https://assets.matjrah.store/image/app-icons/Phosphor/Warning-Regular.png",
+    "noSearch": "https://assets.matjrah.store/image/app-icons/Phosphor/Search.png",
+    "question": "https://assets.matjrah.store/image/app-icons/Phosphor/Question.png",
+    "snapchat": "https://assets.matjrah.store/image/app-icons/Static/Other/snapchat.png",
+    "tab_cart": "https://dummy1.matjrah.store/images/1455/image/catalog/important%20assets/1684152648-shopping-cart.png",
+    "tab_home": "https://dummy1.matjrah.store/images/1455/image/catalog/important%20assets/1684152648-home.png",
+    "telegram": "https://assets.matjrah.store/image/app-icons/Static/Other/telegram.png",
+    "whatsapp": "https://assets.matjrah.store/image/app-icons/Static/Other/whatsapp.png",
+    "heartFill": "https://assets.matjrah.store/image/app-icons/Phosphor/Heart-Fill.png",
+    "instagram": "https://assets.matjrah.store/image/app-icons/Static/Other/instagram.png",
+    "mapMarker": "https://assets.matjrah.store/image/app-icons/Phosphor/Map-Pin-Fill.png",
+    "noAddress": "https://assets.matjrah.store/image/app-icons/Phosphor/Warning-Regular.png",
+    "shareFill": "https://assets.matjrah.store/image/app-icons/Phosphor/Share-Fill.png",
+    "shippment": "https://assets.matjrah.store/image/app-icons/Phosphor/Truck.png",
+    "arrow-down": "https://assets.matjrah.store/image/app-icons/Phosphor/Arrow-Down.png",
+    "arrow-left": "https://assets.matjrah.store/image/app-icons/Phosphor/Arrow-Left.png",
+    "bestSeller": "https://dummy1.matjrah.store/images/1455/image/catalog/important%20assets/1684153070-best-seller.png",
+    "chevron-up": "https://assets.matjrah.store/image/app-icons/Phosphor/Caret-Up.png",
+    "crosshairs": "https://assets.matjrah.store/image/app-icons/Phosphor/Map-Pin-Fill.png",
+    "headerlogo": {
+      "ar": "https://api.tajadad.app/uploads/api/files/1710625917_xc8ZeiCnPAzixiduB033s5ZsnVyKguTEVR0LLziT.jpg",
+      "en": "https://api.tajadad.app/uploads/api/files/1712943869_Q0BUAlgWwEpJ7TeKg2lxHRfhvCfwr7BeLlCDRESH.jpg"
+    },
+    "noFavorite": "https://assets.matjrah.store/image/app-icons/Phosphor/Warning-Regular.png",
+    "noProducts": "https://assets.matjrah.store/image/app-icons/Phosphor/Not-Found.png",
+    "productBag": "https://dummy1.matjrah.store/images/1455/image/catalog/important%20assets/1684153070-shopping-bag.png",
+    "tab_brands": "https://dummy1.matjrah.store/images/1455/image/catalog/important%20assets/1684152758-tag.png",
+    "arrow-right": "https://assets.matjrah.store/image/app-icons/Phosphor/Arrow-Right.png",
+    "exclamation": "https://assets.matjrah.store/image/app-icons/Phosphor/Warning-Regular.png",
+    "maintenance": "https://assets.matjrah.store/image/app-icons/Phosphor/Settings.png",
+    "newProducts": "https://dummy1.matjrah.store/images/1455/image/catalog/important%20assets/1684153070-new.png",
+    "pinProducts": "https://dummy1.matjrah.store/images/1455/image/catalog/important%20assets/1684153638-pin.png",
+    "tab_account": "https://dummy1.matjrah.store/images/1455/image/catalog/important%20assets/1684152648-user.png",
+    "chevron-down": "https://assets.matjrah.store/image/app-icons/Phosphor/Caret-Down.png",
+    "chevron-left": "https://assets.matjrah.store/image/app-icons/Phosphor/Caret-Left.png",
+    "connectivity": "https://assets.matjrah.store/image/app-icons/Phosphor/Off.png",
+    "uprightarrow": "https://assets.matjrah.store/image/app-icons/Phosphor/Arrow-Up-Right.png",
+    "tab_categories": "https://dummy1.matjrah.store/images/1455/image/catalog/important%20assets/1684152648-category.png",
+    "noSubcategories": "https://assets.matjrah.store/image/app-icons/Phosphor/Not-Found.png"
+  },
+  "spinner": false,
+  "currency": "SAR",
+  "features": {
+    "coupon": true,
+    "search": true,
+    "barcode": true,
+    "rewards": true,
+    "wishlist": true,
+    "flashSale": true,
+    "confirmCOD": true,
+    "showBrandsTab": true,
+    "addressLocation": true,
+    "showBrandSearch": true,
+    "showCategoriesTab": true,
+    "productCardCarousel": true
+  },
+  "infoData": [
+    {
+      "id": 4,
+      "iconKey": null,
+      "stringKey": "aboutApp"
+    },
+    {
+      "id": 3,
+      "iconKey": null,
+      "stringKey": "privacyPolicy"
+    },
+    {
+      "id": 6,
+      "iconKey": null,
+      "stringKey": "deliveryInfo"
+    },
+    {
+      "id": 10,
+      "iconKey": null,
+      "stringKey": "returnPolicy"
+    },
+    {
+      "id": 9,
+      "iconKey": null,
+      "stringKey": "termsConditions"
+    },
+    {
+      "iconKey": "wave",
+      "onPress": "social",
+      "stringKey": "support"
+    },
+    {
+      "iconKey": "share",
+      "onPress": "share",
+      "hideArrow": true,
+      "stringKey": "shareApp"
+    }
+  ],
+  "language": {
+    "default": "ar",
+    "changeable": true,
+    "variableStrings": {
+      "ar": {
+        "main": "الرئيسية",
+        "latest": "أحدث المنتجات",
+        "return": "سياسة الاستبدال والاسترجاع",
+        "aboutApp": "عن التطبيق",
+        "contactUs": "تواصل معنا",
+        "lastPiece": "عروض حديثة",
+        "NewProducts": "تصفح المنتجات الجديدة",
+        "bestSellers": "الأعلى مبيعا",
+        "fcategories": "الاقسام",
+        "ShopProducts": "تسوق منتجاتنا",
+        "deliveryInfo": "معلومات التوصيل",
+        "returnPolicy": "سياسة الاستبدال والاسترجاع",
+        "privacyPolicy": "سياسية الخصوصية",
+        "termsConditions": "الشروط والاحكام",
+        "titleString_v3dvl": "عروض حصرية",
+        "shareAppAndSupport": "الدعم والمشاركة",
+        "announceMessage_2h3uj": "سجل في الموقع او التطبيق واحصل على كوبون خصم 1000 ريال, كود الخصم (aramart)  وتأهل ل السحب على طقم معيشة مجانا",
+        "announceMessage_2pjyg": " سجل في الموقع او التطبيق واحصل على كوبون خصم 1000 ريال, كود الخصم (aramart)  وتأهل ل السحب على طقم معيشة مجانا",
+        "announceMessage_nem3l": "تخقيضات رمضان تصل حتى 50%",
+        "announceMessage_yl8lz": "استخدم كود \"ARAMART\" واحصل على 1000 ريال خصم ",
+        "products_categories_atyjc": "المنتجات المخفضة ",
+        "products_categories_blwbi": "قسم المنتجات المخفضة ",
+        "products_categories_wwxix": "أحدث المنتجات"
+      },
+      "en": {
+        "main": "Main",
+        "latest": "Latest New products",
+        "Hoodies": "Makeup and beauty",
+        "aboutApp": "About App",
+        "contactUs": "contact us",
+        "lastPiece": "New Discounts",
+        "NewProducts": "Shop New Products",
+        "bestSellers": "best Sellers",
+        "fcategories": "Featured Categories",
+        "ShopProducts": "Shop Products",
+        "deliveryInfo": "Delivery Information",
+        "returnPolicy": "Exchange and Return Policy",
+        "privacyPolicy": "Privacy Policy",
+        "2023Collection": "2023 collection",
+        "Winterclothing": "Makeup and beauty",
+        "FootballTshirts": "Football T-shirts",
+        "ShopNewProducts": "New Summer Collection",
+        "announceMessage": "The new collection from Pixel",
+        "termsConditions": "Terms and Conditions",
+        "WinterCollection": "Makeup and beauty",
+        "titleString_v3dvl": "Exclusive offers",
+        "shareAppAndSupport": "Share app And Support",
+        "Sweaterdesignedbyyou": "Sweater designed by you",
+        "navTitleString_v3dvl": "Optimal hair care",
+        "subtitleString_v3dvl": "Optimal hair care",
+        "announceMessage_2h3uj": "Register for the online store or application and get a SAR 1000 discount code (aramart), and enter the withdrawal",
+        "announceMessage_2pjyg": " Register for an online store or application and get a SAR 1000 discount code (aramart) and enter the withdraw ",
+        "announceMessage_vdbmf": "Lemon Pharmacy provides a large selection of the best skin and hair care products",
+        "announceMessage_yl8lz": "Apply Discount Coupon \"ARAMART\" and get SAR 1000 Discount ",
+        "products_categories_v1y6c": "Skin beauty",
+        "products_categories_wwxix": "Latest designs",
+        "products_categories_wy7sz": "Daily care"
+      }
+    }
+  },
+  "oneSignal": "f696b147-944b-4834-91e2-9b373a869334",
+  "privacyId": 5,
+  "fontFamily": "din",
+  "colorsPallet": {
+    "auth": {
+      "authHeader": {
+        "color": {
+          "icon": "#111827",
+          "border": "#e7eaee",
+          "background": "#ffffff"
+        }
+      },
+      "authContent": {
+        "color": {
+          "text": "#111827"
+        }
+      }
+    },
+    "cart": {
+      "coupon": {
+        "applied": {
+          "color": {
+            "icon": "#00331e",
+            "text": "#00331e",
+            "background": "#d9f5e5"
+          }
+        },
+        "content": {
+          "color": {
+            "icon": "#545454",
+            "text": "#111827"
+          }
+        },
+        "container": {
+          "color": {
+            "border": "#e7eaee",
+            "background": "#ffffff"
+          }
+        }
+      },
+      "reward": {
+        "content": {
+          "color": {
+            "icon": "#545454",
+            "text": "#111827",
+            "border": "#545454",
+            "background": "#ededed"
+          }
+        },
+        "success": {
+          "color": {
+            "icon": "#00331e",
+            "text": "#00331e",
+            "background": "#d9f5e5"
+          }
+        },
+        "container": {
+          "color": {
+            "border": "#e7eaee",
+            "background": "#ffffff"
+          }
+        }
+      },
+      "summary": {
+        "content": {
+          "color": {
+            "icon": "#111827",
+            "text": {
+              "default": "#111827",
+              "discount": "#EB003F"
+            }
+          }
+        },
+        "container": {
+          "color": {
+            "border": "#e7eaee",
+            "background": "#ffffff"
+          }
+        }
+      },
+      "ctaTotal": {
+        "color": {
+          "text": "#111827",
+          "border": "#e7eaee",
+          "background": "#ffffff"
+        }
+      },
+      "freeShipping": {
+        "content": {
+          "color": {
+            "icon": "#545454",
+            "text": "#2b2b2b",
+            "background": {
+              "default": "#e7eaee",
+              "indicator": "#5ecb97"
+            }
+          }
+        },
+        "container": {
+          "color": {
+            "border": "#e7eaee",
+            "background": "#ffffff"
+          }
+        }
+      },
+      "productDetails": {
+        "status": {
+          "moved": {
+            "color": {
+              "icon": "#00331e",
+              "text": "#00331e",
+              "background": "#d9f5e5"
+            }
+          },
+          "notify": {
+            "color": {
+              "icon": "#00207c",
+              "text": "#00207c",
+              "background": "#e2f0ff"
+            }
+          },
+          "deleted": {
+            "color": {
+              "icon": "#5b0c00",
+              "text": "#7d1600",
+              "background": "#ffeae3"
+            }
+          }
+        },
+        "content": {
+          "color": {
+            "text": {
+              "error": "#a32300",
+              "title": "#00207c",
+              "grayed": "#878d99",
+              "default": "#111827"
+            },
+            "background": {
+              "grayed": "rgba(0,0,0,0.32)"
+            }
+          }
+        },
+        "container": {
+          "color": {
+            "border": "#e7eaee",
+            "background": "#ffffff",
+            "borderLowQty": "#f8a600",
+            "borderOutOfStock": "#a32300"
+          }
+        }
+      }
+    },
+    "input": {
+      "inputs": {
+        "pend": {
+          "color": {
+            "icon": "#111827",
+            "text": "#111827",
+            "border": "#ededed"
+          }
+        },
+        "field": {
+          "color": {
+            "icon": {
+              "default": "#111827",
+              "invalid": "#5b0c00",
+              "disabled": "#b2b7c0",
+              "selected": "#00331e"
+            },
+            "text": {
+              "default": "#111827",
+              "invalid": "#a32300",
+              "disabled": "#6b7280",
+              "inputted": "#111827",
+              "placeholder": "#6b7280"
+            },
+            "border": {
+              "default": "#ededed",
+              "invalid": "#a32300",
+              "disabled": "#f3f5f7",
+              "selected": "#545454"
+            },
+            "background": {
+              "default": "#ffffff",
+              "disabled": "#f3f5f7"
+            }
+          }
+        },
+        "label": {
+          "color": {
+            "text": "#111827"
+          }
+        },
+        "helper": {
+          "color": {
+            "text": "#6b7280"
+          }
+        },
+        "optional": {
+          "color": {
+            "text": "#6b7280"
+          }
+        },
+        "required": {
+          "color": {
+            "text": "#7d1600"
+          }
+        },
+        "charCounter": {
+          "color": {
+            "text": "#6b7280"
+          }
+        }
+      }
+    },
+    "modal": {
+      "modalTitle": {
+        "color": {
+          "icon": "#6b7280",
+          "text": "#111827",
+          "background": "#ffffff"
+        }
+      },
+      "modalContent": {
+        "color": {
+          "icon": "#111827",
+          "text": "#111827",
+          "border": "#ededed"
+        }
+      },
+      "modalSuccess": {
+        "color": {
+          "icon": "#00331e",
+          "text": "#111827",
+          "background": "#ffffff"
+        }
+      }
+    },
+    "toast": {
+      "timer": {
+        "color": {
+          "background": {
+            "default": "rgba(255,255,255,0.32)",
+            "indicator": "rgba(255,255,255,0.80)"
+          }
+        }
+      },
+      "infoToast": {
+        "color": {
+          "icon": "#00207c",
+          "text": "#00207c",
+          "background": "#83bbff"
+        }
+      },
+      "errorSuccess": {
+        "color": {
+          "icon": "#5b0c00",
+          "text": "#5b0c00",
+          "background": "#EB003F"
+        }
+      },
+      "successToast": {
+        "color": {
+          "icon": "#00331e",
+          "text": "#00331e",
+          "background": "#5ecb97"
+        }
+      },
+      "warningToast": {
+        "color": {
+          "icon": "#412500",
+          "text": "#412500",
+          "background": "#f8a600"
+        }
+      }
+    },
+    "brands": {
+      "brand": {
+        "name": {
+          "color": {
+            "text": "#111827"
+          }
+        }
+      },
+      "brandsHeader": {
+        "color": {
+          "border": "#e7eaee",
+          "background": "#ffffff"
+        },
+        "title": {
+          "color": {
+            "text": "#111827"
+          }
+        }
+      }
+    },
+    "button": {
+      "btnOut": {
+        "color": {
+          "icon": "#ffffff",
+          "text": "#ffffff",
+          "border": "#ededed"
+        }
+      },
+      "btnLink": {
+        "color": {
+          "icon": "#111827",
+          "text": "#111827",
+          "border": "#545454"
+        }
+      },
+      "btnDanger": {
+        "color": {
+          "icon": {
+            "default": "#5b0c00"
+          },
+          "text": {
+            "default": "#5b0c00"
+          },
+          "border": {
+            "default": "#ffeae3"
+          },
+          "background": {
+            "default": "#ffffff"
+          }
+        }
+      },
+      "btnPrimary": {
+        "color": {
+          "icon": {
+            "default": "#ffffff"
+          },
+          "text": {
+            "default": "#ffffff"
+          },
+          "background": {
+            "tapped": "#545454",
+            "default": "#b58a59",
+            "disabled": "#6b7280"
+          }
+        }
+      },
+      "btnTertiary": {
+        "color": {
+          "icon": {
+            "default": "#111827"
+          },
+          "text": {
+            "default": "#111827"
+          },
+          "border": {
+            "default": "#ededed"
+          },
+          "background": {
+            "default": "#ffffff"
+          }
+        }
+      },
+      "btnSecondary": {
+        "color": {
+          "icon": {
+            "default": "#2b2b2b"
+          },
+          "text": {
+            "default": "#2b2b2b"
+          },
+          "background": {
+            "default": "#f4eee7"
+          }
+        }
+      }
+    },
+    "canvas": {
+      "globalBg": {
+        "white": "#FFFFFF",
+        "selected": "#fafafa",
+        "statusBar": "#2b2b2b"
+      }
+    },
+    "tabBar": {
+      "tabItem": {
+        "default": {
+          "color": {
+            "icon": "#111827",
+            "text": "#111827"
+          }
+        },
+        "selected": {
+          "color": {
+            "icon": "#545454",
+            "text": "#545454",
+            "border": "#545454",
+            "background": "#ededed"
+          }
+        }
+      },
+      "cartCounter": {
+        "color": {
+          "text": "#ffffff",
+          "background": "#EB003F"
+        }
+      },
+      "itemsContainer": {
+        "color": {
+          "border": "#ffffff",
+          "background": "#ffffff"
+        }
+      }
+    },
+    "account": {
+      "bigBtn": {
+        "color": {
+          "icon": "#111827",
+          "text": "#111827",
+          "border": "#ededed",
+          "background": "#ffffff"
+        }
+      },
+      "mainNav": {
+        "color": {
+          "icon": "#2b2b2b",
+          "text": "#2b2b2b",
+          "border": "#ededed",
+          "canvas": "#FAFAFA",
+          "background": "#ffffff"
+        }
+      },
+      "wideBtn": {
+        "color": {
+          "icon": "#111827",
+          "text": "#111827",
+          "border": "#ededed",
+          "background": "#ffffff"
+        }
+      },
+      "addresses": {
+        "content": {
+          "color": {
+            "icon": "#111827",
+            "text": "#111827"
+          }
+        },
+        "default": {
+          "color": {
+            "text": "#00331e",
+            "background": "#d9f5e5"
+          }
+        },
+        "container": {
+          "color": {
+            "border": "#ededed",
+            "background": "#ffffff"
+          }
+        }
+      },
+      "inContent": {
+        "color": {
+          "text": "#111827"
+        }
+      },
+      "linkSection": {
+        "color": {
+          "icon": "#111827",
+          "text": "#111827",
+          "border": "#f3f5f7",
+          "background": "#ffffff"
+        }
+      },
+      "orderStatus": {
+        "content": {
+          "color": {
+            "text": {
+              "default": "#111827",
+              "progress": "#5b3600",
+              "cancelled": "#7d1600",
+              "delivered": "#00492d"
+            }
+          }
+        },
+        "container": {
+          "color": {
+            "border": "#ededed",
+            "background": "#ffffff"
+          }
+        }
+      },
+      "ctaContainer": {
+        "color": {
+          "border": "#e7eaee",
+          "background": "#ffffff"
+        }
+      },
+      "taxRegisters": {
+        "color": {
+          "text": "#878d99"
+        }
+      },
+      "notifications": {
+        "card": {
+          "color": {
+            "text": "#111827",
+            "border": "#e7eaee",
+            "background": "#ffffff"
+          }
+        }
+      },
+      "userContainer": {
+        "color": {
+          "icon": "#ffffff",
+          "text": "#ffffff",
+          "background": "#2b2b2b"
+        }
+      }
+    },
+    "divider": {
+      "h1Divider": {
+        "color": {
+          "background": "#f3f5f7"
+        }
+      },
+      "tallDivider": {
+        "color": {
+          "background": "#f3f5f7"
+        }
+      }
+    },
+    "checkout": {
+      "otp": {
+        "color": {
+          "text": "#111827"
+        }
+      },
+      "method": {
+        "loader": {
+          "color": {
+            "icon": "#00207c",
+            "background": "rgba(255,255,255,0.64)"
+          }
+        },
+        "content": {
+          "color": {
+            "icon": "#111827",
+            "text": "#111827"
+          }
+        },
+        "container": {
+          "color": {
+            "border": {
+              "default": "#ededed",
+              "selected": "#545454"
+            },
+            "background": "#ffffff"
+          }
+        },
+        "freeShipping": {
+          "color": {
+            "text": "#00492d",
+            "background": "#d9f5e5"
+          }
+        }
+      },
+      "address": {
+        "content": {
+          "color": {
+            "icon": "#111827",
+            "text": "#111827"
+          }
+        },
+        "default": {
+          "color": {
+            "icon": "#00331e",
+            "text": "#00492d",
+            "background": "#d9f5e5"
+          }
+        },
+        "container": {
+          "color": {
+            "border": "#ededed",
+            "background": "#ffffff"
+          }
+        }
+      },
+      "banktransfer": {
+        "color": {
+          "icon": "#00207c",
+          "text": "#111827"
+        }
+      }
+    },
+    "dropdown": {
+      "ddMenu": {
+        "color": {
+          "background": "#ffffff"
+        }
+      },
+      "ddField": {
+        "color": {
+          "icon": "#111827",
+          "text": "#111827",
+          "border": "#ededed",
+          "background": "#ffffff"
+        }
+      },
+      "ddSearch": {
+        "color": {
+          "icon": "#111827",
+          "text": "#111827",
+          "border": "#ededed",
+          "background": "#ffffff"
+        }
+      },
+      "ddMenuItem": {
+        "color": {
+          "icon": "#111827",
+          "text": "#111827",
+          "border": "#ededed",
+          "background": "#ffffff"
+        }
+      }
+    },
+    "homepage": {
+      "story": {
+        "star": {
+          "container": {
+            "color": {
+              "icon": "#f8a600",
+              "background": "#ffffff"
+            }
+          }
+        },
+        "sheet": {
+          "color": {
+            "icon": "#ffffff",
+            "text": "#ffffff"
+          }
+        },
+        "container": {
+          "color": {
+            "text": "#111827",
+            "border": {
+              "seen": "linear-gradient(180deg, #D300C5 0%, #FF7A00 50%, #FFD600 100%)",
+              "default": "#e7eaee",
+              "instaOrange": "#FF7A00",
+              "instaYellow": "#FFD600",
+              "instaLavender": "#D300C5"
+            }
+          }
+        },
+        "imgOverlay": {
+          "color": {
+            "fill": "rgba(0,0,0,0.48)"
+          }
+        },
+        "progressBar": {
+          "color": {
+            "fill": "#ffffff",
+            "background": "rgba(0,0,0,0.32)"
+          }
+        }
+      },
+      "navTitle": {
+        "color": {
+          "text": "#111827"
+        }
+      },
+      "homeHeader": {
+        "color": {
+          "border": "#e7eaee",
+          "background": "#ffffff"
+        }
+      },
+      "sliderDots": {
+        "color": {
+          "border": "#6b7280",
+          "background": {
+            "default": "#f3f5f7",
+            "selected": "#2b2b2b"
+          }
+        }
+      },
+      "categoryLink": {
+        "color": {
+          "text": {
+            "dark": "#111827",
+            "light": "#ffffff"
+          },
+          "background": {
+            "blackOverlay": "rgba(0,0,0,0.32)",
+            "whiteOverlay": "rgba(255,255,255,0.64)"
+          }
+        }
+      },
+      "headerButton": {
+        "color": {
+          "icon": "#111827",
+          "border": "#111827"
+        }
+      },
+      "sectionTitle": {
+        "color": {
+          "icon": "#2b2b2b",
+          "text": "#2b2b2b",
+          "border": "#2b2b2b",
+          "borderLighter": "#ededed"
+        }
+      },
+      "countdownTimer": {
+        "color": {
+          "background": "#ffffff"
+        },
+        "timer": {
+          "color": {
+            "text": "#7d1600",
+            "background": "#ffffff"
+          }
+        },
+        "title": {
+          "color": {
+            "text": "#111827",
+            "background": "#ffffff"
+          }
+        },
+        "subtitle": {
+          "color": {
+            "text": "#111827",
+            "background": "#ffffff"
+          }
+        }
+      },
+      "announcementBar": {
+        "ad": {
+          "color": {
+            "icon": "#2d1f66",
+            "text": "#2d1f66",
+            "background": "#b4b0f3"
+          }
+        },
+        "timer": {
+          "color": {
+            "background": {
+              "default": "rgba(255,255,255,0.32)",
+              "indicator": "rgba(255,255,255,0.80)"
+            }
+          }
+        },
+        "notice": {
+          "color": {
+            "icon": "#412500",
+            "text": "#412500",
+            "background": "#f8a600"
+          }
+        },
+        "announcement": {
+          "color": {
+            "icon": "#00331e",
+            "text": "#00331e",
+            "background": "#5ecb97"
+          }
+        }
+      }
+    },
+    "accordion": {
+      "accordionClp": {
+        "color": {
+          "icon": "#111827",
+          "text": "#111827",
+          "border": "#ededed",
+          "background": "#ffffff"
+        }
+      },
+      "accordionExp": {
+        "color": {
+          "icon": "#111827",
+          "text": "#111827",
+          "border": "#ededed",
+          "background": "#ffffff"
+        }
+      },
+      "accordionContent": {
+        "color": {
+          "icon": "#111827",
+          "text": "#111827",
+          "border": "#e7eaee"
+        }
+      }
+    },
+    "mainColor": "#000000",
+    "selection": {
+      "option": {
+        "color": {
+          "icon": {
+            "default": "#111827",
+            "disabled": "#b2b7c0",
+            "selected": "#2b2b2b"
+          },
+          "text": {
+            "default": "#111827",
+            "disabled": "#6b7280",
+            "selected": "#2b2b2b"
+          },
+          "border": {
+            "default": "#ededed",
+            "disabled": "#f3f5f7",
+            "selected": "#545454"
+          },
+          "background": {
+            "selected": "#ffffff"
+          }
+        }
+      },
+      "radioSelect": {
+        "color": {
+          "icon": {
+            "default": "#111827",
+            "disabled": "#6b7280",
+            "selected": "#2b2b2b"
+          },
+          "text": {
+            "default": "#111827",
+            "disabled": "#6b7280",
+            "selected": "#2b2b2b"
+          },
+          "border": {
+            "default": "#545454",
+            "disabled": "#f3f5f7"
+          },
+          "background": {
+            "disabled": "#6b7280",
+            "selected": "#ffffff"
+          }
+        }
+      },
+      "checkBoxSelect": {
+        "color": {
+          "icon": {
+            "default": "#111827",
+            "disabled": "#6b7280",
+            "selected": "#2b2b2b"
+          },
+          "text": {
+            "default": "#111827",
+            "disabled": "#6b7280",
+            "selected": "#2b2b2b"
+          },
+          "border": {
+            "default": "#545454",
+            "disabled": "#f3f5f7"
+          },
+          "background": {
+            "disabled": "#6b7280",
+            "selected": "#ffffff"
+          }
+        }
+      }
+    },
+    "categories": {
+      "categoryLink": {
+        "textBased": {
+          "menu": {
+            "color": {
+              "border": "#e7eaee",
+              "background": "#f9fafb"
+            }
+          },
+          "color": {
+            "text": "#111827"
+          }
+        },
+        "textOnImg": {
+          "color": {
+            "text": "#ffffff",
+            "background": {
+              "blackOverlay": "rgba(0,0,0,0.48)"
+            }
+          }
+        },
+        "whiteLabel": {
+          "color": {
+            "background": {
+              "whiteOverlay": "rgba(255,255,255,0.24)"
+            }
+          },
+          "textContainer": {
+            "color": {
+              "text": "#111827",
+              "background": "rgba(255,255,255,0.92)"
+            }
+          }
+        },
+        "textBelowImg": {
+          "textContainer": {
+            "color": {
+              "text": "#111827"
+            }
+          }
+        }
+      },
+      "mainCategory": {
+        "color": {
+          "text": {
+            "default": "#111827",
+            "selected": "#2b2b2b"
+          },
+          "border": {
+            "default": "#e7eaee",
+            "selected": "#2b2b2b"
+          },
+          "background": {
+            "default": "#f3f5f7",
+            "selected": "rgba(0,0,0,0)"
+          }
+        }
+      },
+      "showProducts": {
+        "color": {
+          "text": "#111827",
+          "border": "#ededed",
+          "background": "#ffffff"
+        }
+      },
+      "alphabeticalSort": {
+        "color": {
+          "text": {
+            "default": "#545454",
+            "selected": "#2b2b2b"
+          }
+        }
+      }
+    },
+    "emptyState": {
+      "emptySearch": {
+        "color": {
+          "icon": "#6b7280",
+          "text": "#111827",
+          "border": "#e7eaee",
+          "background": "#ffffff"
+        }
+      }
+    },
+    "productCard": {
+      "cta": {
+        "color": {
+          "icon": {
+            "default": "#2b2b2b"
+          },
+          "text": {
+            "default": "#2b2b2b"
+          },
+          "border": {
+            "default": "#ededed"
+          },
+          "background": {
+            "error": "#ffeae3",
+            "default": "#ededed"
+          }
+        }
+      },
+      "color": {
+        "border": {
+          "default": "#e7eaee"
+        }
+      },
+      "price": {
+        "color": {
+          "text": {
+            "list": "#6b7280",
+            "current": "#111827"
+          }
+        }
+      },
+      "ptitle": {
+        "text": {
+          "default": "#111827"
+        }
+      },
+      "rating": {
+        "color": {
+          "icon": {
+            "default": "#f8a600",
+            "neutral": "#6b7280"
+          },
+          "text": {
+            "default": "#403088"
+          }
+        }
+      },
+      "redFav": {
+        "color": {
+          "icon": {
+            "default": "#6b7280",
+            "selected": "#EB2F48",
+            "defaultborder": "#6b7280"
+          },
+          "background": {
+            "gray": "#f3f5f7",
+            "default": "#ffffff",
+            "selected": "#ffeae3"
+          }
+        }
+      },
+      "details": {
+        "color": {
+          "backround": "#ffffff"
+        }
+      },
+      "reviews": {
+        "color": {
+          "text": {
+            "count": "#878d99"
+          }
+        }
+      },
+      "brandName": {
+        "color": {
+          "text": "#0031a6"
+        }
+      },
+      "qtyPicker": {
+        "color": {
+          "icon": {
+            "button": "#111827",
+            "buttonDisabled": "#b2b7c0"
+          },
+          "text": {
+            "default": "#111827",
+            "placeholder": "#6b7280"
+          },
+          "border": {
+            "input": "#ededed",
+            "inputDisabled": "#f3f5f7"
+          },
+          "background": {
+            "input": "#ffffff",
+            "button": "#ededed",
+            "buttonDisabled": "#f3f5f7"
+          }
+        }
+      },
+      "discountBdg": {
+        "color": {
+          "text": {
+            "soft": "#a32300",
+            "sharp": "#ffffff",
+            "simple": "#a32300",
+            "rounded": "#a32300"
+          },
+          "border": {
+            "simple": "#ffeae3",
+            "rounded": "#a32300"
+          },
+          "background": {
+            "soft": "#ffeae3",
+            "sharp": "#a32300"
+          }
+        }
+      },
+      "carouselBars": {
+        "color": {
+          "background": {
+            "active": "#545454",
+            "default": "#f3f5f7"
+          }
+        }
+      }
+    },
+    "productPage": {
+      "bnpl": {
+        "color": {
+          "text": "#111827",
+          "border": "#e7eaee",
+          "background": "#ffffff"
+        }
+      },
+      "specs": {
+        "title": {
+          "color": {
+            "text": "#111827"
+          }
+        },
+        "content": {
+          "color": {
+            "text": "#111827",
+            "border": "#f3f5f7",
+            "background": "#ffffff"
+          }
+        }
+      },
+      "review": {
+        "info": {
+          "color": {
+            "icon": "#111827",
+            "text": "#111827"
+          }
+        },
+        "user": {
+          "color": {
+            "text": "#111827"
+          }
+        },
+        "content": {
+          "color": {
+            "text": "#111827",
+            "border": "#f3f5f7"
+          }
+        }
+      },
+      "actions": {
+        "color": {
+          "icon": {
+            "fill": "#111827",
+            "sharp": "#111827",
+            "stroke": "#111827",
+            "rounded": "#111827"
+          },
+          "background": {
+            "sharp": "#ffffff",
+            "rounded": "#ffffff",
+            "transparent": "rgba(0,0,0,0)"
+          }
+        }
+      },
+      "question": {
+        "content": {
+          "color": {
+            "text": "#111827",
+            "border": "#f3f5f7"
+          }
+        },
+        "visitor": {
+          "color": {
+            "text": "#111827"
+          }
+        }
+      },
+      "actionsBar": {
+        "close": {
+          "color": {
+            "icon": "#111827"
+          }
+        },
+        "color": {
+          "border": "#e7eaee",
+          "background": "#ffffff"
+        },
+        "share": {
+          "color": {
+            "icon": "#111827"
+          }
+        },
+        "redFav": {
+          "color": {
+            "icon": {
+              "added": "#EB2F48",
+              "default": "#6b7280"
+            }
+          }
+        }
+      },
+      "sliderDots": {
+        "color": {
+          "text": "#111827",
+          "border": {
+            "default": "#6b7280"
+          },
+          "background": {
+            "default": "#ffffff",
+            "selected": "#2b2b2b"
+          }
+        }
+      },
+      "addedProduct": {
+        "info": {
+          "color": {
+            "text": "#111827",
+            "border": "#e7eaee"
+          }
+        },
+        "timer": {
+          "color": {
+            "icon": "#00331e",
+            "border": "#0f6dff"
+          }
+        },
+        "title": {
+          "color": {
+            "text": "#111827"
+          }
+        },
+        "container": {
+          "color": {
+            "background": "#f9fafb"
+          }
+        },
+        "listPrice": {
+          "color": {
+            "text": "#6b7280"
+          }
+        }
+      },
+      "ctaContainer": {
+        "color": {
+          "border": "#e7eaee",
+          "background": "#ffffff"
+        }
+      },
+      "productDetails": {
+        "addBdg": {
+          "color": {
+            "text": "#111827",
+            "background": "#d9f5e5"
+          }
+        },
+        "qtyPromoBdg": {
+          "color": {
+            "text": "#111827",
+            "background": "#ffeae3"
+          }
+        },
+        "detailsContainer": {
+          "color": {
+            "background": "#ffffff"
+          }
+        }
+      },
+      "stockCountdown": {
+        "color": {
+          "text": "#7d1600",
+          "progress": "#7d1600",
+          "background": "#ffeae3"
+        }
+      },
+      "relatedProducts": {
+        "color": {
+          "icon": "#111827",
+          "text": "#111827",
+          "background": "#f9fafb"
+        }
+      }
+    },
+    "productListing": {
+      "tab": {
+        "color": {
+          "text": {
+            "default": "#111827",
+            "selected": "#545454"
+          },
+          "border": {
+            "selected": "#545454"
+          },
+          "background": "#ffffff"
+        }
+      },
+      "filter": {
+        "price": {
+          "color": {
+            "icon": {
+              "default": "#111827",
+              "selected": "#00331e"
+            },
+            "text": {
+              "input": {
+                "append": "#111827",
+                "inputted": "#111827",
+                "placeholder": "#6b7280"
+              }
+            },
+            "border": {
+              "default": "#ededed",
+              "invalid": "#a32300",
+              "selected": "#545454"
+            },
+            "background": "#ffffff"
+          }
+        }
+      },
+      "option": {
+        "color": {
+          "icon": {
+            "default": "#111827",
+            "disabled": "#b2b7c0",
+            "selected": "#2b2b2b"
+          },
+          "text": {
+            "default": "#111827",
+            "disabled": "#6b7280",
+            "selected": "#2b2b2b"
+          },
+          "border": {
+            "default": "#ededed",
+            "disabled": "#f3f5f7",
+            "selected": "#545454"
+          },
+          "background": {
+            "default": "#ffffff",
+            "selected": "#ffffff"
+          }
+        }
+      },
+      "searchBar": {
+        "color": {
+          "icon": "#111827",
+          "text": {
+            "inputted": "#111827",
+            "placeholder": "#6b7280"
+          },
+          "border": {
+            "default": "#ededed",
+            "selected": "#545454"
+          },
+          "background": "#ffffff"
+        }
+      },
+      "bottomSheet": {
+        "color": {
+          "text": "#111827",
+          "background": "#f9fafb"
+        }
+      },
+      "radioSelect": {
+        "color": {
+          "icon": {
+            "default": "#111827",
+            "disabled": "#6b7280",
+            "selected": "#2b2b2b"
+          },
+          "text": {
+            "default": "#111827",
+            "disabled": "#6b7280",
+            "selected": "#2b2b2b"
+          },
+          "border": {
+            "default": "#545454",
+            "disabled": "#f3f5f7"
+          },
+          "background": {
+            "disabled": "#6b7280",
+            "selected": "#ffffff"
+          }
+        }
+      },
+      "entryHistory": {
+        "color": {
+          "icon": "#111827",
+          "text": "#111827"
+        }
+      },
+      "searchHeader": {
+        "color": {
+          "icon": "#111827",
+          "border": "#e7eaee",
+          "background": "#ffffff"
+        }
+      },
+      "listingHeader": {
+        "color": {
+          "icon": "#111827",
+          "border": "#e7eaee",
+          "background": "#ffffff"
+        },
+        "title": {
+          "color": {
+            "text": "#111827"
+          }
+        }
+      },
+      "appliedFilters": {
+        "color": {
+          "icon": "#111827",
+          "text": "#111827",
+          "border": "#b2b7c0"
+        }
+      },
+      "checkBoxSelect": {
+        "color": {
+          "icon": {
+            "default": "#111827",
+            "disabled": "#6b7280",
+            "selected": "#2b2b2b"
+          },
+          "text": {
+            "default": "#111827",
+            "disabled": "#6b7280",
+            "selected": "#2b2b2b"
+          },
+          "border": {
+            "default": "#545454",
+            "disabled": "#f3f5f7"
+          },
+          "background": {
+            "disabled": "#6b7280",
+            "selected": "#ffffff"
+          }
+        }
+      }
+    }
+  },
+  "customePages": [],
+  "homeSections": [
+    {
+      "sections": [
+        {
+          "type": "products",
+          "index": 0,
+          "limit": "4",
+          "query": {
+            "sort": "date_added",
+            "order": "DESC"
+          },
+          "style": "left",
+          "colors": {
+            "primary": "#000000",
+            "secondary": "#000000"
+          },
+          "isGrid": false,
+          "iconKey": null,
+          "stringKey": "products_categories_wwxix",
+          "productsType": "newArrivals"
+        },
+        {
+          "data": {
+            "ratio": null,
+            "banners": [
+              {
+                "image": "https://api.tajadad.app/uploads/api/files/1718393025_uSoU8RhIwtw86VqmkiktQqIqJsEYY0qPdIFXoBxp.jpg",
+                "title": "",
+                "link_type": "",
+                "link_value": "",
+                "heightRatio_ar": 0.25,
+                "heightRatio_en": 0.25
+              }
+            ],
+            "ratio_ar": 0.25,
+            "ratio_en": 0.25
+          },
+          "type": "banner",
+          "index": 1,
+          "columns": "1",
+          "banner_id": "static",
+          "displayAs": "row",
+          "fullWidth": true,
+          "resizeMode": "cover",
+          "widthRatio": 1,
+          "justifyContent": "center",
+          "marginVertical": 0
+        },
+        {
+          "type": "products",
+          "index": 2,
+          "limit": "4",
+          "query": {
+            "sort": "random"
+          },
+          "style": "left",
+          "colors": {
+            "primary": "#000000",
+            "secondary": "#000000"
+          },
+          "isGrid": false,
+          "iconKey": null,
+          "stringKey": "products_categories_blwbi",
+          "productsType": "random"
+        },
+        {
+          "ids": [
+            139,
+            147
+          ],
+          "type": "featured_categories",
+          "index": 3,
+          "level": 2,
+          "style": "rectdark",
+          "parent": null,
+          "direction": "column"
+        },
+        {
+          "data": {
+            "ratio": null,
+            "banners": [
+              {
+                "image": "https://api.tajadad.app/uploads/api/files/1712944982_lvDQs7SryLOXbBfAyd7SPs06PvORgdVxEwD7bTbP.jpg",
+                "title": "كاش باك",
+                "link_type": "",
+                "link_value": "",
+                "heightRatio_ar": 0.25,
+                "heightRatio_en": 0.25
+              },
+              {
+                "image": "https://api.tajadad.app/uploads/api/files/1712945772_iI6IDRm6y7QrdrdynDb1CgcQw9x1Y8rppTvvegr9.jpg",
+                "title": "",
+                "link_type": "",
+                "link_value": "",
+                "heightRatio_ar": 0.25,
+                "heightRatio_en": 0.25
+              }
+            ],
+            "ratio_ar": 0.25,
+            "ratio_en": 0.25
+          },
+          "type": "banner",
+          "index": 4,
+          "columns": 1,
+          "banner_id": "static",
+          "displayAs": "carousel",
+          "fullWidth": false,
+          "resizeMode": "cover",
+          "widthRatio": 0.95,
+          "justifyContent": "center",
+          "marginVertical": 10,
+          "showSwiperIndex": true,
+          "marginHorizontal": 12
+        },
+        {
+          "data": {
+            "ratio": null,
+            "banners": [
+              {
+                "image": "https://api.tajadad.app/uploads/api/files/1718391414_EvdMvUTVOqq8aodl0Ge9uTrpUQtjpPKtRROjR976.jpg",
+                "title": "غرفتين معيشة بأسعار مخفضة",
+                "link_type": "",
+                "link_value": "",
+                "heightRatio_ar": 0.25,
+                "heightRatio_en": 0.25
+              },
+              {
+                "image": "https://api.tajadad.app/uploads/api/files/1724695962_TzDUpgSVIZN7SeerRkfoDorZ36aCCd6mFRNpp8y2.jpg",
+                "title": "",
+                "link_type": "",
+                "link_value": "",
+                "heightRatio_ar": 0.25,
+                "heightRatio_en": 0.25
+              }
+            ],
+            "ratio_ar": 0.25,
+            "ratio_en": 0.25
+          },
+          "type": "banner",
+          "index": 5,
+          "columns": "1",
+          "banner_id": "static",
+          "displayAs": "scroll",
+          "fullWidth": true,
+          "resizeMode": "cover",
+          "widthRatio": 1,
+          "justifyContent": "center",
+          "marginVertical": 10,
+          "marginHorizontal": 12
+        }
+      ],
+      "stringKey": "main",
+      "titleWidth": 200
+    },
+    {
+      "sections": [
+        {
+          "type": "products",
+          "index": 0,
+          "limit": "4",
+          "query": {
+            "sort": "date_added",
+            "order": "DESC"
+          },
+          "style": "left",
+          "colors": {
+            "primary": "#000000",
+            "secondary": "#000000"
+          },
+          "isGrid": false,
+          "iconKey": null,
+          "stringKey": "products_categories_wwxix",
+          "productsType": "newArrivals"
+        },
+        {
+          "data": {
+            "ratio": null,
+            "banners": [
+              {
+                "image": "https://api.tajadad.app/uploads/api/files/1718393025_uSoU8RhIwtw86VqmkiktQqIqJsEYY0qPdIFXoBxp.jpg",
+                "title": "",
+                "link_type": "",
+                "link_value": "",
+                "heightRatio_ar": 0.25,
+                "heightRatio_en": 0.25
+              }
+            ],
+            "ratio_ar": 0.25,
+            "ratio_en": 0.25
+          },
+          "type": "banner",
+          "index": 1,
+          "columns": "1",
+          "banner_id": "static",
+          "displayAs": "row",
+          "fullWidth": true,
+          "resizeMode": "cover",
+          "widthRatio": 1,
+          "justifyContent": "center",
+          "marginVertical": 0
+        },
+        {
+          "type": "products",
+          "index": 2,
+          "limit": "4",
+          "query": {
+            "sort": "random"
+          },
+          "style": "left",
+          "colors": {
+            "primary": "#000000",
+            "secondary": "#000000"
+          },
+          "isGrid": false,
+          "iconKey": null,
+          "stringKey": "products_categories_blwbi",
+          "productsType": "random"
+        },
+        {
+          "ids": [
+            139,
+            147
+          ],
+          "type": "featured_categories",
+          "index": 3,
+          "level": 2,
+          "style": "rectdark",
+          "parent": null,
+          "direction": "column"
+        },
+        {
+          "data": {
+            "ratio": null,
+            "banners": [
+              {
+                "image": "https://api.tajadad.app/uploads/api/files/1712944982_lvDQs7SryLOXbBfAyd7SPs06PvORgdVxEwD7bTbP.jpg",
+                "title": "كاش باك",
+                "link_type": "",
+                "link_value": "",
+                "heightRatio_ar": 0.25,
+                "heightRatio_en": 0.25
+              },
+              {
+                "image": "https://api.tajadad.app/uploads/api/files/1712945772_iI6IDRm6y7QrdrdynDb1CgcQw9x1Y8rppTvvegr9.jpg",
+                "title": "",
+                "link_type": "",
+                "link_value": "",
+                "heightRatio_ar": 0.25,
+                "heightRatio_en": 0.25
+              }
+            ],
+            "ratio_ar": 0.25,
+            "ratio_en": 0.25
+          },
+          "type": "banner",
+          "index": 4,
+          "columns": 1,
+          "banner_id": "static",
+          "displayAs": "carousel",
+          "fullWidth": false,
+          "resizeMode": "cover",
+          "widthRatio": 0.95,
+          "justifyContent": "center",
+          "marginVertical": 10,
+          "showSwiperIndex": true,
+          "marginHorizontal": 12
+        },
+        {
+          "data": {
+            "ratio": null,
+            "banners": [
+              {
+                "image": "https://api.tajadad.app/uploads/api/files/1718391414_EvdMvUTVOqq8aodl0Ge9uTrpUQtjpPKtRROjR976.jpg",
+                "title": "غرفتين معيشة بأسعار مخفضة",
+                "link_type": "",
+                "link_value": "",
+                "heightRatio_ar": 0.25,
+                "heightRatio_en": 0.25
+              },
+              {
+                "image": "https://api.tajadad.app/uploads/api/files/1724695962_TzDUpgSVIZN7SeerRkfoDorZ36aCCd6mFRNpp8y2.jpg",
+                "title": "",
+                "link_type": "",
+                "link_value": "",
+                "heightRatio_ar": 0.25,
+                "heightRatio_en": 0.25
+              }
+            ],
+            "ratio_ar": 0.25,
+            "ratio_en": 0.25
+          },
+          "type": "banner",
+          "index": 5,
+          "columns": "1",
+          "banner_id": "static",
+          "displayAs": "scroll",
+          "fullWidth": true,
+          "resizeMode": "cover",
+          "widthRatio": 1,
+          "justifyContent": "center",
+          "marginVertical": 10,
+          "marginHorizontal": 12
+        }
+      ],
+      "stringKey": "page2",
+      "titleWidth": 200
+    }
+  ],
+  "quickActions": [
+    {
+      "icon": "orders",
+      "type": "orders",
+      "titleStringKey": "myOrders",
+      "subtitleStringKey": "ordersSub"
+    },
+    {
+      "icon": "cart",
+      "type": "cart",
+      "titleStringKey": "cartCar",
+      "subtitleStringKey": "cartSub"
+    },
+    {
+      "icon": "search",
+      "type": "search",
+      "titleStringKey": "search",
+      "subtitleStringKey": "searchSub"
+    },
+    {
+      "icon": "home",
+      "type": "home",
+      "titleStringKey": "home",
+      "subtitleStringKey": "homeSub"
+    }
+  ],
+  "update_status": true,
+  "zCountriesOTP": [
+    {
+      "flag": "https://assets.matjrah.store/image/app-icons/Static/Flags/SAR.png",
+      "country_id": 1,
+      "phone_length": 9,
+      "phone_prefix": "966"
+    },
+    {
+      "flag": "https://assets.matjrah.store/image/app-icons/Static/Flags/BHD.png",
+      "country_id": 2,
+      "phone_length": 10,
+      "phone_prefix": "20"
+    }
+  ],
+  "imageDimension": "600x600",
+  "zImagesQuality": {
+    "cart": "fullSize",
+    "productCard": "small",
+    "orderDetails": "fullSize",
+    "productDetails": "small"
+  },
+  "imageQualityFactors": {
+    "cart": 1,
+    "brands": 1,
+    "banners": 1,
+    "categories": 1,
+    "productCard": 1,
+    "productDetails": 1,
+    "featuredCategories": 1
+  }
+}
