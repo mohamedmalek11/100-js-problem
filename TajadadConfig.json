@@ -145,10 +145,7 @@
     "bestSeller": "https://dummy1.matjrah.store/images/1455/image/catalog/important%20assets/1684153070-best-seller.png",
     "chevron-up": "https://assets.matjrah.store/image/app-icons/Phosphor/Caret-Up.png",
     "crosshairs": "https://assets.matjrah.store/image/app-icons/Phosphor/Map-Pin-Fill.png",
-    "headerlogo": {
-      "ar": "https://api.tajadad.app/uploads/api/files/1710625917_xc8ZeiCnPAzixiduB033s5ZsnVyKguTEVR0LLziT.jpg",
-      "en": "https://api.tajadad.app/uploads/api/files/1712943869_Q0BUAlgWwEpJ7TeKg2lxHRfhvCfwr7BeLlCDRESH.jpg"
-    },
+    "headerlogo": "https://api.tajadad.app/uploads/api/files/1710625917_xc8ZeiCnPAzixiduB033s5ZsnVyKguTEVR0LLziT.jpg",
     "noFavorite": "https://assets.matjrah.store/image/app-icons/Phosphor/Warning-Regular.png",
     "noProducts": "https://assets.matjrah.store/image/app-icons/Phosphor/Not-Found.png",
     "productBag": "https://dummy1.matjrah.store/images/1455/image/catalog/important%20assets/1684153070-shopping-bag.png",

@@ -4,7 +4,7 @@ import path from "path";
 // 1. Load the config file (assuming it's JSON)
 const config = JSON.parse(fs.readFileSync("./rawTajadadConfig.json", "utf-8"));
 
-const newConfig = config.homeSections.map((page) => {
+config.homeSections.map((page) => {
   return page.sections.map((section) => {
     if (section.type === "banner") {
       let sectionData = section.data.banners.map((banner) => {
@@ -21,6 +21,15 @@ const newConfig = config.homeSections.map((page) => {
 // 2. Modify the config as needed
 const modifiedConfig = {
   ...config,
+  rImages: {
+    ...config.rImages,
+    headerlogo: config.rImages.headerlogo.ar
+      ? config.rImages.headerlogo.ar
+      : config.rImages.headerlogo,
+    intro: config.rImages.intro.ar
+      ? config.rImages.intro.ar
+      : config.rImages.intro,
+  },
 };
 
 // 3. Save the modified config
