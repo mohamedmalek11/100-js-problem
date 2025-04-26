@@ -1,7 +1,7 @@
 import fs from "fs";
 import path from "path";
 
-// 1. Load the config file (assuming it's JSON)
+// 1. Load the config file
 const config = JSON.parse(fs.readFileSync("./rawTajadadConfig.json", "utf-8"));
 
 config.homeSections.map((page) => {
@@ -18,7 +18,7 @@ config.homeSections.map((page) => {
   });
 });
 
-// 2. Modify the config as needed
+// 2. Modify the config
 const modifiedConfig = {
   ...config,
   rImages: {
