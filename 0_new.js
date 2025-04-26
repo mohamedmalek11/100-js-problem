@@ -1,8 +1,8 @@
 import fs from "fs";
 import path from "path";
 
-const number = "32";
-const name = "Transportation On Vacation";
+const number = "34";
+const name = "Exclusive Xor Operator";
 
 // convert challenge name to file name for automate naming
 function convertNameToFileName(num, text) {
